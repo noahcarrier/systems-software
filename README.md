@@ -1,5 +1,5 @@
-# systems-software
-Project Repo for Systems Software (COP 3402)
+# Systems Software (COP 3402)
+Project Repo for Systems Software (COP 3402) Spring 2022 semester at the University of Central Florida
 
 
 The currently existing projects active/future/past are as follows:
